@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'>
+<title>Форма для загрузки файла</title>
+</head>
+<h1>Прикрепите файл</h1>
+<body>
+<form enctype='multipart/form-data/form-data' method='post'>
+<p><input type='file' name='f'>
+<input type='submit' name='Отправить'>
+</p>
+</form>
+</body>
+</html>
